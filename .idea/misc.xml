@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/TecDevNoite/AndroidStudioProjects/ToDoListApp/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/TecDevNoite/AndroidStudioProjects/ToDoListApp/app/src/main/res/layout/adapter_tarefas.xml" value="0.2015625" />
         <entry key="..\:/Users/TecDevNoite/AndroidStudioProjects/ToDoListApp/app/src/main/res/layout/fragment_cad_subtarefa.xml" value="0.2957427536231884" />
         <entry key="..\:/Users/TecDevNoite/AndroidStudioProjects/ToDoListApp/app/src/main/res/layout/fragment_cad_tarefa.xml" value="0.2957427536231884" />
         <entry key="..\:/Users/TecDevNoite/AndroidStudioProjects/ToDoListApp/app/src/main/res/layout/fragment_detalhe_tarefa.xml" value="0.2957427536231884" />
